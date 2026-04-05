@@ -20,7 +20,7 @@ setup(
     name='NetworkSecurity',
     version='0.0.1',
     author="Mohammad Shuaib",
-    author_email="mohammadshuaib3455@gmail.com",
+    author_email="mohammadshuaib07866@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements()
 )
